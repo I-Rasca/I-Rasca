@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-                                                                                                                           This unique specimen comes from: x = 🧉
-                                                                                                                                                            y = 🌞
-                                                                                                                                                             if x + y == gaucho zarigueya:
-                                                                                                                                                                print("🇦🇷")​
+                                                                                                                                       This unique specimen comes from: x = 🧉
+                                                                                                                                                                        y = 🌞
+                                                                                                                                                                        if x + y == gaucho:
+                                                                                                                                                                           print("🇦🇷")​
