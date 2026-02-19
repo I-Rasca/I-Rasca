@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 
 
-                                                                                                              This unique specimen comes from \uD83C\uDDE6\uD83C\uDDF7​
+                                                                                                              This unique specimen comes from \U0001f1e6\U0001f1f7​
