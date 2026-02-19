@@ -30,7 +30,7 @@ Here are some ideas to get you started: -->
 - 📫 **How to reach me:** [...](https://github.com/I-Rasca)
  ##
 <!-- - 😄 Pronouns: ... -->
-- ⚡ **Fun fact:** Right now, in outer space, there is a planet where it rains... *glass*. And it rains... *from the bottom up* (I'm dyslexic).
+- ⚡ **Fun fact:** Right now, in outer space, there is a planet where it rains... *glass*. And it rains... *from the bottom up* (I'm dsylexic).
 
 ##
 
