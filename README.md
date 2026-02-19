@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 
 
-                                                                                                              This unique specimen comes from &#127462;&#127479;​
+                                                                                                              This unique specimen comes from %F0%9F%87%A6%F0%9F%87%B7​
