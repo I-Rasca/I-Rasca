@@ -35,6 +35,8 @@ Here are some ideas to get you started: -->
 - ⚡ **Another fun fact:** It seems that many years ago **Linus Torvalds** indirectly predicted with a single sentence that AI would
 arrive to do much of our work. He said: *"Intelligence is the ability to avoid doing work, yet getting the work done"* 
 
+- 🦡​ **Isotype:** created from public *png* images 
+
 ##
 
                                                                                               ↓〘ESPAÑOL〙
@@ -72,7 +74,9 @@ y es posible que ninguno de ellos llegue a ver la luz.
 - ⚡ **Dato curioso:** En este momento, en el espacio exterior, hay un planeta donde llueve... *vidrio*. Y llueve... *de abajo hacia arriba* (soy dsiléxico).
 - ⚡ **Otro dato curioso:** parece que hace muchos años **Linus Torvalds** predijo indirectamente con una sola frase
 que la IA llegaría para hacer gran parte de nuestro trabajo. Dijo: *«La inteligencia
-es la capacidad de evitar hacer el trabajo, pero conseguir que se haga»*. 
+es la capacidad de evitar hacer el trabajo, pero conseguir que se haga»*.
+
+- 🦡​ **Isotipo** creado a partir de imágenes *png* públicas 
 
 
 
