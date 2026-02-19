@@ -26,6 +26,22 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... -->
 - 💬 **Ask me about** ~~Carl Sagan~~... *Topics related to this digital world.*
 - 📫 **How to reach me:** [...](https://github.com/I-Rasca)
+ ##
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              This unique specimen comes from
