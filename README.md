@@ -9,11 +9,11 @@
  ##
 Apparently, my technical focus is on:
 
-- My strength (?), systems analysis
-- Some behavioral analysis
-- Maybe some automation
-- Perhaps server security
-- Sometimes optimization and mathematical logic
+- My strength (?), **systems analysis**
+- Some **behavioral analysis**
+- Maybe some **automation**
+- Perhaps **server security**
+- Sometimes **optimization and mathematical logic**
  
 <!--
 **I-Rasca/I-Rasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
