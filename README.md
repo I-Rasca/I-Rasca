@@ -1,6 +1,6 @@
 ## 👋
 
-                                                                                                       =>〘ENGLISH〙
+                                                                                                  =>〘ENGLISH〙
 
 -Here, curious creature of the universe-
 
@@ -37,7 +37,7 @@ arrive to do much of our work. He said: *"Intelligence is the ability to avoid d
 
 ##
 
-                                                                                                       =>〘ESPAÑOL〙
+                                                                                                  =>〘ESPAÑOL〙
 
 -He aquí, una curiosa criatura del universo-
 
