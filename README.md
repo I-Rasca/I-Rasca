@@ -1,10 +1,12 @@
 ## 👋
 {
+
 -Here, curious creature of the universe-
 
 <Apparently, I am ***A*** senior technician in IT>
  
 <I was a professor ***I***n tertiary institutions and at a public university>
+
  } 
 <!--
 **I-Rasca/I-Rasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
