@@ -84,7 +84,10 @@ es la capacidad de evitar hacer el trabajo, pero conseguir que se haga»*.
 
 
 
-                                                                                                                                       This unique specimen comes from: x = 🧉
-                                                                                                                                                                        y = 🌞
-                                                                                                                                                                        if x + y == gaucho:
+                                                                                                                                        This unique specimen comes from:
+                                                                                                                                                     x = "🧉"
+                                                                                                                                                     y = "🌞"
+                                                                                                                                                     z = "🧉gaucho🌞" 
+                                                                                                                                                     if z.starstwith(x) and z.endswith(y):
+                                                                                                                                                        print("🇦🇷")
                                                                                                                                                                            print("🇦🇷")​
