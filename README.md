@@ -9,7 +9,7 @@
  ##
 Apparently, my technical focus is on:
 
-- My strength (?), **systems analysis**🟢
+- Poaaibly (my strength (?)), **systems analysis**🟢
 - Some **behavioral analysis**🟡
 - Maybe some **automation**🟡
 - Perhaps **server security**🔴
