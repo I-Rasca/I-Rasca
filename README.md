@@ -36,7 +36,7 @@ Here are some ideas to get you started: -->
 
                                                                                                                 =>〘ESPAÑOL〙
 
--He aquí, curiosa criatura del universo-
+-He aquí, una curiosa criatura del universo-
 
 〘 Al parecer, soy técnico superior en TI 〙
 
