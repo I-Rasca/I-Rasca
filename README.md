@@ -24,6 +24,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 **I’m currently working on** independent projects related to systems analysis and code documentation.
 - 🌱 **I’m currently learning** everything, but one thing at a time.
+- 💻​ **private github projects:** Some of them are in the final stages, others have many errors, and perhaps none of them will ever see the light.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 **Ask me about** ~~Carl Sagan~~... *Topics related to this digital world.* ​
@@ -60,6 +61,8 @@ Here are some ideas to get you started: -->
 
 - 🔭 **Actualmente estoy trabajando en** proyectos independientes relacionados con el análisis de sistemas y la documentación de código.
 - 🌱 Actualmente estoy aprendiendo** de todo, pero una cosa a la vez.
+- 💻​ **Proyectos privados de github:** Algunos de ellos se encuentran en su fase final, otros tienen muchos errores
+y es posible que ninguno de ellos llegue a ver la luz.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 **Pregúntame sobre** ~~Carl Sagan~~... *Temas relacionados con este mundo digital.* ​
