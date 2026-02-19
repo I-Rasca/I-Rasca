@@ -46,10 +46,10 @@ Here are some ideas to get you started: -->
 Aparentemente, mi especialidad técnica se centra en:
 
 - Posiblemente (?), **análisis de sistemas**🟢
-- Algunos **análisis de comportamiento**🟡
-- Quizás algo de **automatización**🟡
+- Algo de **análisis de comportamiento**🟡
+- Quizás también **automatización**🟡
 - Tal vez **seguridad de servidores**🔴
-- A veces **optimización y lógica matemática**🟠
+- Y a veces **optimización y lógica matemática**🟠
  ##
 <!--
 **I-Rasca/I-Rasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
