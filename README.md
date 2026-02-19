@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 
 
-                                                                                                              This unique specimen comes from 🇦🇷​
+                                                                                                              This unique specimen comes from \01F1E6 \01F1F7​
