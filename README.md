@@ -1,13 +1,11 @@
-##
 👋
-
 〘 Apparently, I am ***A*** senior technician in IT 〙
 
 〘 I was a professor ***I***n tertiary institutions and at a public university 〙
  ##
 Apparently, my technical focus is on:
 
-- Possibly (?), **systems analysis**🟢
+- Possibly **systems analysis**🟢
 - Perhaps some **automation**🟡
 - Sometimes **optimization and mathematical logic**🟠
  ##
