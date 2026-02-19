@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
 
 ##
 
-                                                                                                                => 〘ESPAÑOL〙
+                                                                                                                =>〘ESPAÑOL〙
 
 -He aquí, curiosa criatura del universo-
 
