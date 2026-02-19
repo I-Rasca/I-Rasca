@@ -9,7 +9,7 @@
  ##
 Apparently, my technical focus is on:
 
-- Possibly (?), **systems analysis**🟢 🇦🇷
+- Possibly (?), **systems analysis**🟢
 - Some **behavioral analysis**🟡
 - Maybe some **automation**🟡
 - Perhaps **server security**🔴
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 **Ask me about** ~~Carl Sagan~~... *Topics related to this digital world.*​
+- 💬 **Ask me about** ~~Carl Sagan~~... *Topics related to this digital world.* ​
 - 📫 **How to reach me:** [...](https://github.com/I-Rasca)
  ##
 <!-- - 😄 Pronouns: ...
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 
 
-                                                                                                              This unique specimen comes from ​
+                                                                                                                                          This unique specimen comes from 🧉+🌞​
