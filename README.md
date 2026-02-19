@@ -31,6 +31,8 @@ Here are some ideas to get you started: -->
  ##
 <!-- - 😄 Pronouns: ... -->
 - ⚡ **Fun fact:** Right now, in outer space, there is a planet where it rains... *glass*. And it rains... *from the bottom up* (I'm dsylexic).
+- ⚡ **Another fun fact:** It seems that many years ago **Linus Torvalds** indirectly predicted with a single sentence that AI would
+arrive to do much of our work. He said: *"Intelligence is the ability to avoid doing work, yet getting the work done"* 
 
 ##
 
@@ -65,7 +67,9 @@ Here are some ideas to get you started: -->
  ##
 <!-- - 😄 Pronouns: ... -->
 - ⚡ **Dato curioso:** En este momento, en el espacio exterior, hay un planeta donde llueve... *vidrio*. Y llueve... *de abajo hacia arriba* (soy dsiléxico).
-
+- ⚡ **Otro dato curioso:** parece que hace muchos años **Linus Torvalds** predijo indirectamente con una sola frase
+que la IA llegaría para hacer gran parte de nuestro trabajo. Dijo: *«La inteligencia
+es la capacidad de evitar hacer el trabajo, pero conseguir que se haga»*. 
 
 
 
