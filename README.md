@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 
 
-                                                                                                              This unique specimen comes from xn--e77h8a​
+                                                                                                              This unique specimen comes from F0 9F 87 A6 F0 9F 87 B7​
