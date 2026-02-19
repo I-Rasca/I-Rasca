@@ -90,4 +90,4 @@ es la capacidad de evitar hacer el trabajo, pero conseguir que se haga»*.
                                                                                                                                                      z = "🧉gaucho🌞" 
                                                                                                                                                      if z.starstwith(x) and z.endswith(y):
                                                                                                                                                         print("🇦🇷")
-                                                                                                                                                                           print("🇦🇷")​
+                                                                                                                                                                     ​
