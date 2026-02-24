@@ -1,6 +1,4 @@
-👋
-
-〘 I am ***A*** senior technician in IT, and I was a professor ***I***n tertiary institutions and at a public university 〙
+〘 I worked as ***a*** technician in IT departmens, and as a professor in some places 〙
  ##
 Apparently, my technical focus is on:
 
@@ -9,17 +7,11 @@ Apparently, my technical focus is on:
 - Sometimes **optimization and mathematical logic**🟠
  ##
 - 💻​ **private github projects?** Some of them are in the final stages, others have many errors, and perhaps none of them will ever see the light.
-- 💬 **Ask me about** ~~Carl Sagan~~... *topics related to this digital world.* ​
  
-- ⚡ **Fun fact:** It seems that many years ago **Linus Torvalds** indirectly predicted with a single sentence that AI would
+- ⚡ It seems that many years ago **Linus Torvalds** indirectly predicted with a single sentence that AI would
 arrive to do much (or every) of our work. He said: *"Intelligence is the ability to avoid doing work, yet getting the work done"* 
 ##
 - 🦡​ **Isotype:** created from public *png* images 
-
-
-
-
-
 
                                                                                                                                         This unique specimen comes from:
                                                                                                                                                      x = "🧉"
