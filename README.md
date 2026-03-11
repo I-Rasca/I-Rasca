@@ -22,7 +22,7 @@ Apparently, I know to a certain extent about **systems analysis**🟢 perhaps so
 
 **Learnig more about >** 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![githubcopilot](https://img.shields.io/badge/github%20copilot-000000?style=flat&logo=githubcopilot&logoColor=white) and AIs
+![githubcopilot](https://img.shields.io/badge/github%20copilot-000000?style=flat&logo=githubcopilot&logoColor=white) and any other AI
 
 ***Sometimes, I do 🤖s***
 ## 🔎​
